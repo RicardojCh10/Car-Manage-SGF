@@ -1,0 +1,1 @@
+// !Configuración base de la API (endpoints, URLs, headers)
